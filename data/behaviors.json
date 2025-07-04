@@ -4,13 +4,13 @@
     "name" : "Add a new book to the system with additional unknown fields",
     "children" : [ {
       "name" : "AddnewBookwithadditinalfields",
-      "uid" : "a7030beb64cde792",
+      "uid" : "805b3301f42fca9a",
       "parentUid" : "01eff1e2111fb98481045f12f9803008",
       "status" : "failed",
       "time" : {
-        "start" : 1751621806650,
-        "stop" : 1751621809406,
-        "duration" : 2756
+        "start" : 1751622131490,
+        "stop" : 1751622134175,
+        "duration" : 2685
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +21,13 @@
     "name" : "Add a new book to the system with Empty required fields.",
     "children" : [ {
       "name" : "AddnewBookwithemptyfields",
-      "uid" : "394a1f354809d1d",
+      "uid" : "1bfacefae19173a3",
       "parentUid" : "cd24251d8d88e12f8f478f851fb06515",
       "status" : "passed",
       "time" : {
-        "start" : 1751621809487,
-        "stop" : 1751621809921,
-        "duration" : 434
+        "start" : 1751622134236,
+        "stop" : 1751622134712,
+        "duration" : 476
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,13 +38,13 @@
     "name" : "Add a new book to the system with same fields values",
     "children" : [ {
       "name" : "AddnewBookwithsamefieldsvalues",
-      "uid" : "22f4b6ec06a6c34",
+      "uid" : "e19ac42768698d51",
       "parentUid" : "0dcaf08ebf8cec9bee81da692907a625",
       "status" : "failed",
       "time" : {
-        "start" : 1751621809925,
-        "stop" : 1751621810226,
-        "duration" : 301
+        "start" : 1751622134716,
+        "stop" : 1751622135238,
+        "duration" : 522
       },
       "flaky" : false,
       "newFailed" : false,
@@ -55,13 +55,13 @@
     "name" : "Delete an existing book by negative ID ",
     "children" : [ {
       "name" : "DeleteExistingBookbynegativeID",
-      "uid" : "8cea23a0d202411b",
+      "uid" : "521dc23c1ac232d7",
       "parentUid" : "25e96bdd8e5709918ad72ead1af213c9",
       "status" : "passed",
       "time" : {
-        "start" : 1751621810230,
-        "stop" : 1751621810531,
-        "duration" : 301
+        "start" : 1751622135242,
+        "stop" : 1751622135632,
+        "duration" : 390
       },
       "flaky" : false,
       "newFailed" : false,
@@ -72,13 +72,13 @@
     "name" : "Delete an existing book by non-existing ID.",
     "children" : [ {
       "name" : "DeleteExistingBookbynonexistingID",
-      "uid" : "92c2e4fd575fe9b8",
+      "uid" : "7b060c33938caa82",
       "parentUid" : "6228bff943048996ad1fb02c01446847",
       "status" : "failed",
       "time" : {
-        "start" : 1751621810534,
-        "stop" : 1751621810851,
-        "duration" : 317
+        "start" : 1751622135635,
+        "stop" : 1751622135984,
+        "duration" : 349
       },
       "flaky" : false,
       "newFailed" : false,
@@ -89,13 +89,13 @@
     "name" : "Delete an existing book by ID is a string or special character..",
     "children" : [ {
       "name" : "DeleteExistingBookbystringorspecialID",
-      "uid" : "7fc078bc7e19ab05",
+      "uid" : "4d7fce488c3570d8",
       "parentUid" : "0cdebab6652a45964f393e397bafc3d3",
       "status" : "passed",
       "time" : {
-        "start" : 1751621810855,
-        "stop" : 1751621811148,
-        "duration" : 293
+        "start" : 1751622135987,
+        "stop" : 1751622136373,
+        "duration" : 386
       },
       "flaky" : false,
       "newFailed" : false,
@@ -106,13 +106,13 @@
     "name" : "Retrieve details of a specific book by not exist ID.",
     "children" : [ {
       "name" : "GetBooksDetailsbyIDnotexist",
-      "uid" : "8473d33fdedf615a",
+      "uid" : "db4ff32671d242b7",
       "parentUid" : "1c20de0c167a3e49aefd781d5638122f",
       "status" : "passed",
       "time" : {
-        "start" : 1751621811151,
-        "stop" : 1751621811455,
-        "duration" : 304
+        "start" : 1751622136376,
+        "stop" : 1751622136814,
+        "duration" : 438
       },
       "flaky" : false,
       "newFailed" : false,
@@ -123,13 +123,13 @@
     "name" : "Retrieve details of a specific book by negative ID ",
     "children" : [ {
       "name" : "GetBooksDetailsbynegativeID",
-      "uid" : "3bd77ef6e51252c5",
+      "uid" : "4c28c3e84a76b9d1",
       "parentUid" : "a69a4b30b561c76a2544c6717c3e96d3",
       "status" : "passed",
       "time" : {
-        "start" : 1751621811457,
-        "stop" : 1751621811753,
-        "duration" : 296
+        "start" : 1751622136817,
+        "stop" : 1751622137199,
+        "duration" : 382
       },
       "flaky" : false,
       "newFailed" : false,
@@ -140,13 +140,13 @@
     "name" : "Retrieve details of a specific book by ID is a string or special character.",
     "children" : [ {
       "name" : "GetBooksDetailsbystringorspecialID",
-      "uid" : "57a0c5b4d260b612",
+      "uid" : "db5d62978b8d627d",
       "parentUid" : "226d30a6f2f0e3e2c7e86fe44766daed",
       "status" : "passed",
       "time" : {
-        "start" : 1751621811756,
-        "stop" : 1751621812036,
-        "duration" : 280
+        "start" : 1751622137202,
+        "stop" : 1751622137607,
+        "duration" : 405
       },
       "flaky" : false,
       "newFailed" : false,
@@ -157,13 +157,13 @@
     "name" : "Update an existing book by ID with extra field.",
     "children" : [ {
       "name" : "UpdateExistingBookbyIDwithextrafield",
-      "uid" : "a4c4d77ab19a0ba5",
+      "uid" : "48b34b3941489d72",
       "parentUid" : "14632c0fe4925394316d30663e303b45",
       "status" : "failed",
       "time" : {
-        "start" : 1751621812038,
-        "stop" : 1751621812326,
-        "duration" : 288
+        "start" : 1751622137609,
+        "stop" : 1751622137948,
+        "duration" : 339
       },
       "flaky" : false,
       "newFailed" : false,
@@ -174,13 +174,13 @@
     "name" : "Update an existing book by a non-existing ID.",
     "children" : [ {
       "name" : "UpdateExistingBookbyanonexistingID",
-      "uid" : "5ebb17ab48a70c80",
+      "uid" : "a2d5fc3a78934f47",
       "parentUid" : "37ca690e7edb8cf4a5f1c0e05755088f",
       "status" : "failed",
       "time" : {
-        "start" : 1751621812329,
-        "stop" : 1751621812623,
-        "duration" : 294
+        "start" : 1751622137951,
+        "stop" : 1751622138357,
+        "duration" : 406
       },
       "flaky" : false,
       "newFailed" : false,
@@ -191,13 +191,13 @@
     "name" : "Update an existing book by a negative ID.",
     "children" : [ {
       "name" : "UpdateExistingBookbynegativeID",
-      "uid" : "c1270411cc8ec518",
+      "uid" : "8985a89744e832e6",
       "parentUid" : "9d73856845860a2690783829264d26f7",
       "status" : "failed",
       "time" : {
-        "start" : 1751621812626,
-        "stop" : 1751621812933,
-        "duration" : 307
+        "start" : 1751622138360,
+        "stop" : 1751622138722,
+        "duration" : 362
       },
       "flaky" : false,
       "newFailed" : false,
@@ -208,13 +208,13 @@
     "name" : "Add a new author to the system.",
     "children" : [ {
       "name" : "AddNewAuthor",
-      "uid" : "f3afaaea82015e4d",
+      "uid" : "462aa0b8314af361",
       "parentUid" : "99c03146ce06bdbe331acdc45fe23339",
       "status" : "passed",
       "time" : {
-        "start" : 1751621812937,
-        "stop" : 1751621813213,
-        "duration" : 276
+        "start" : 1751622138726,
+        "stop" : 1751622139097,
+        "duration" : 371
       },
       "flaky" : false,
       "newFailed" : false,
@@ -225,13 +225,13 @@
     "name" : "Delete an author by their ID.",
     "children" : [ {
       "name" : "DeleteExistingAuthorbyID",
-      "uid" : "74ba9336b31405e",
+      "uid" : "d0decbca0aefcba1",
       "parentUid" : "80bf336ad6c6eb97411b6f318f126f5d",
       "status" : "passed",
       "time" : {
-        "start" : 1751621813215,
-        "stop" : 1751621813491,
-        "duration" : 276
+        "start" : 1751622139100,
+        "stop" : 1751622139431,
+        "duration" : 331
       },
       "flaky" : false,
       "newFailed" : false,
@@ -242,13 +242,13 @@
     "name" : "Retrieve a list of all authors",
     "children" : [ {
       "name" : "GetAllAuthorList",
-      "uid" : "1f51ea1979db3aa3",
+      "uid" : "b3a9b970baad387b",
       "parentUid" : "b9de1ddf92a4f07e95308e9bad801966",
       "status" : "passed",
       "time" : {
-        "start" : 1751621813493,
-        "stop" : 1751621813996,
-        "duration" : 503
+        "start" : 1751622139433,
+        "stop" : 1751622140018,
+        "duration" : 585
       },
       "flaky" : false,
       "newFailed" : false,
@@ -259,13 +259,13 @@
     "name" : "Retrieve details of a specific author by their ID.",
     "children" : [ {
       "name" : "GetAuthorDetailsbyID",
-      "uid" : "f49afe3be78d2fb",
+      "uid" : "e88bdfb96543e55f",
       "parentUid" : "3ddcb536052e93db8dec2df398887fd8",
       "status" : "passed",
       "time" : {
-        "start" : 1751621813999,
-        "stop" : 1751621814287,
-        "duration" : 288
+        "start" : 1751622140020,
+        "stop" : 1751622140411,
+        "duration" : 391
       },
       "flaky" : false,
       "newFailed" : false,
@@ -276,13 +276,13 @@
     "name" : "Update an existing author’s details.",
     "children" : [ {
       "name" : "UpdateExistingAuthorbyID",
-      "uid" : "194049eba4baac9b",
+      "uid" : "1c8c3a411927f644",
       "parentUid" : "ec1f29538c306999dc43bc29709abce9",
       "status" : "passed",
       "time" : {
-        "start" : 1751621814289,
-        "stop" : 1751621814566,
-        "duration" : 277
+        "start" : 1751622140413,
+        "stop" : 1751622140746,
+        "duration" : 333
       },
       "flaky" : false,
       "newFailed" : false,
@@ -293,13 +293,13 @@
     "name" : "Add a new book to the system.",
     "children" : [ {
       "name" : "AddNewBook",
-      "uid" : "adaedcf7e44d721b",
+      "uid" : "adfadcca35398877",
       "parentUid" : "726716625643fa473abab3621c94fdb6",
       "status" : "passed",
       "time" : {
-        "start" : 1751621814568,
-        "stop" : 1751621814836,
-        "duration" : 268
+        "start" : 1751622140748,
+        "stop" : 1751622141104,
+        "duration" : 356
       },
       "flaky" : false,
       "newFailed" : false,
@@ -310,13 +310,13 @@
     "name" : "Delete an existing book by its ID.",
     "children" : [ {
       "name" : "DeleteExistingBookbyID",
-      "uid" : "c275cc76dd306693",
+      "uid" : "866b876d756e525d",
       "parentUid" : "5fc0361fc916d56622bbc9cc0d8c1437",
       "status" : "passed",
       "time" : {
-        "start" : 1751621814839,
-        "stop" : 1751621815101,
-        "duration" : 262
+        "start" : 1751622141106,
+        "stop" : 1751622141432,
+        "duration" : 326
       },
       "flaky" : false,
       "newFailed" : false,
@@ -327,13 +327,13 @@
     "name" : "Retrieve a list of all books",
     "children" : [ {
       "name" : "GetAllBooksList",
-      "uid" : "4658b74283c69792",
+      "uid" : "caf4d4009adcec95",
       "parentUid" : "450543c7da0ea10277940528fd62f002",
       "status" : "passed",
       "time" : {
-        "start" : 1751621815103,
-        "stop" : 1751621815612,
-        "duration" : 509
+        "start" : 1751622141434,
+        "stop" : 1751622142025,
+        "duration" : 591
       },
       "flaky" : false,
       "newFailed" : false,
@@ -344,13 +344,13 @@
     "name" : "Retrieve details of a specific book by its ID.",
     "children" : [ {
       "name" : "GetBooksDetailsbyID",
-      "uid" : "3c9d5f5d6d6a685",
+      "uid" : "3a1ce3f4843fa422",
       "parentUid" : "7670143a5298408d7c1793327fa75d41",
       "status" : "passed",
       "time" : {
-        "start" : 1751621815617,
-        "stop" : 1751621815923,
-        "duration" : 306
+        "start" : 1751622142027,
+        "stop" : 1751622142360,
+        "duration" : 333
       },
       "flaky" : false,
       "newFailed" : false,
@@ -361,13 +361,13 @@
     "name" : "Update an existing book by its ID.",
     "children" : [ {
       "name" : "UpdateExistingBookbyID",
-      "uid" : "55eed40ba61837d0",
+      "uid" : "a7e35c686e73c38d",
       "parentUid" : "ab7f9295c8855eb75d461235a8187264",
       "status" : "passed",
       "time" : {
-        "start" : 1751621815925,
-        "stop" : 1751621816219,
-        "duration" : 294
+        "start" : 1751622142362,
+        "stop" : 1751622142691,
+        "duration" : 329
       },
       "flaky" : false,
       "newFailed" : false,

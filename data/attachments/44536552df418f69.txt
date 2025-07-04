@@ -1,7 +1,0 @@
-{id=2, title=Book 2, description=Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-, pageCount=200, excerpt=Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-Lorem lorem lorem. Lorem lorem lorem. Lorem lorem lorem.
-, publishDate=2025-07-02T09:36:55.8444828+00:00}
