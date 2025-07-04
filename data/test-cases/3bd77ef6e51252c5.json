@@ -1,0 +1,185 @@
+{
+  "uid" : "3bd77ef6e51252c5",
+  "name" : "GetBooksDetailsbynegativeID",
+  "fullName" : "tests.Test_BooksAPIEdgeScenarios.GetBooksDetailsbynegativeID",
+  "historyId" : "3ca7aa0db36557a796b6479270a8f44",
+  "time" : {
+    "start" : 1751621811457,
+    "stop" : 1751621811753,
+    "duration" : 296
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751621806573,
+      "stop" : 1751621806579,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751621811457,
+        "stop" : 1751621811457,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Send GET request to retrieve the Data details by ID",
+      "time" : {
+        "start" : 1751621811458,
+        "stop" : 1751621811458,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751621811752,
+        "stop" : 1751621811752,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751621811753,
+        "stop" : 1751621811753,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "57e51804d6e64920",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "57e51804d6e64920.txt",
+      "type" : "application/json",
+      "size" : 161
+    }, {
+      "uid" : "b2e018468763ab22",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "b2e018468763ab22.txt",
+      "type" : "text/plain",
+      "size" : 28
+    }, {
+      "uid" : "26115faff5bd110a",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "26115faff5bd110a.txt",
+      "type" : "application/json",
+      "size" : 150
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751621816258,
+      "stop" : 1751621816258,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetBooksDetailsbynegativeID"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2439@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Retrieve details of a specific book by negative ID "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bd77ef6e51252c5.json",
+  "parameterValues" : [ ]
+}

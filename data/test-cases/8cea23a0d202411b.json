@@ -1,0 +1,185 @@
+{
+  "uid" : "8cea23a0d202411b",
+  "name" : "DeleteExistingBookbynegativeID",
+  "fullName" : "tests.Test_BooksAPIEdgeScenarios.DeleteExistingBookbynegativeID",
+  "historyId" : "1055a10de1d58d749725a7545696f768",
+  "time" : {
+    "start" : 1751621810230,
+    "stop" : 1751621810531,
+    "duration" : 301
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751621806573,
+      "stop" : 1751621806579,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751621810230,
+        "stop" : 1751621810230,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Send Delete request to delete Data by ID",
+      "time" : {
+        "start" : 1751621810231,
+        "stop" : 1751621810231,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751621810529,
+        "stop" : 1751621810529,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751621810531,
+        "stop" : 1751621810531,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "fe8dea57777d7eb4",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "fe8dea57777d7eb4.txt",
+      "type" : "application/json",
+      "size" : 239
+    }, {
+      "uid" : "e6a6d59ba758a5ae",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "e6a6d59ba758a5ae.txt",
+      "type" : "text/plain",
+      "size" : 30
+    }, {
+      "uid" : "a8a7626250f81e95",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "a8a7626250f81e95.txt",
+      "type" : "application/json",
+      "size" : 223
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751621816258,
+      "stop" : 1751621816258,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "DeleteExistingBookbynegativeID"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2439@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Delete an existing book by negative ID "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cea23a0d202411b.json",
+  "parameterValues" : [ ]
+}

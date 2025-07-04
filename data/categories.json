@@ -6,13 +6,13 @@
       "name" : "Error during retrieving Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
       "children" : [ {
         "name" : "AddnewBookwithadditinalfields",
-        "uid" : "6f3e0a45ffbce26",
+        "uid" : "a7030beb64cde792",
         "parentUid" : "3bc3c6472f149566fba2da5f8e5b8f16",
         "status" : "failed",
         "time" : {
-          "start" : 1751620776435,
-          "stop" : 1751620779280,
-          "duration" : 2845
+          "start" : 1751621806650,
+          "stop" : 1751621809406,
+          "duration" : 2756
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "Error during retrieving Details Data by id - Expected status: 409, but got: 200 expected [409] but found [200]",
       "children" : [ {
         "name" : "AddnewBookwithsamefieldsvalues",
-        "uid" : "a0c5b928e7e65653",
+        "uid" : "22f4b6ec06a6c34",
         "parentUid" : "5d3b93a2a00af10286d8afc918ba4b65",
         "status" : "failed",
         "time" : {
-          "start" : 1751620779927,
-          "stop" : 1751620780403,
-          "duration" : 476
+          "start" : 1751621809925,
+          "stop" : 1751621810226,
+          "duration" : 301
         },
         "flaky" : false,
         "newFailed" : false,
@@ -40,13 +40,13 @@
       "name" : "Error during Deleting Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
       "children" : [ {
         "name" : "DeleteExistingBookbynonexistingID",
-        "uid" : "94d86d7367cb361b",
+        "uid" : "92c2e4fd575fe9b8",
         "parentUid" : "9792fc56938f0412b8682abf911ea367",
         "status" : "failed",
         "time" : {
-          "start" : 1751620780872,
-          "stop" : 1751620781326,
-          "duration" : 454
+          "start" : 1751621810534,
+          "stop" : 1751621810851,
+          "duration" : 317
         },
         "flaky" : false,
         "newFailed" : false,
@@ -57,13 +57,13 @@
       "name" : "Error during retrieving Books Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
       "children" : [ {
         "name" : "UpdateExistingBookbyIDwithextrafield",
-        "uid" : "523b22a01c77d4ca",
+        "uid" : "a4c4d77ab19a0ba5",
         "parentUid" : "e21c1c29fc9e07e3454f5950cb6c0962",
         "status" : "failed",
         "time" : {
-          "start" : 1751620783105,
-          "stop" : 1751620783539,
-          "duration" : 434
+          "start" : 1751621812038,
+          "stop" : 1751621812326,
+          "duration" : 288
         },
         "flaky" : false,
         "newFailed" : false,
@@ -74,26 +74,26 @@
       "name" : "Error during retrieving Books Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
       "children" : [ {
         "name" : "UpdateExistingBookbyanonexistingID",
-        "uid" : "383f48019d15dc07",
+        "uid" : "5ebb17ab48a70c80",
         "parentUid" : "f36e60cf66d074752ab12a540066ebc6",
         "status" : "failed",
         "time" : {
-          "start" : 1751620783542,
-          "stop" : 1751620783975,
-          "duration" : 433
+          "start" : 1751621812329,
+          "stop" : 1751621812623,
+          "duration" : 294
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "UpdateExistingBookbynegativeID",
-        "uid" : "92499252730786e9",
+        "uid" : "c1270411cc8ec518",
         "parentUid" : "f36e60cf66d074752ab12a540066ebc6",
         "status" : "failed",
         "time" : {
-          "start" : 1751620783977,
-          "stop" : 1751620784406,
-          "duration" : 429
+          "start" : 1751621812626,
+          "stop" : 1751621812933,
+          "duration" : 307
         },
         "flaky" : false,
         "newFailed" : false,
