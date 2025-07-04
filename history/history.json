@@ -1,0 +1,448 @@
+{
+  "25fe709b20c83972bd6ddceface50f36" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94d86d7367cb361b",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/94d86d7367cb361b",
+      "status" : "failed",
+      "statusDetails" : "Error during Deleting Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
+      "time" : {
+        "start" : 1751620780872,
+        "stop" : 1751620781326,
+        "duration" : 454
+      }
+    } ]
+  },
+  "fbf659351b47af89ccbe2328bc7aad78" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "92499252730786e9",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/92499252730786e9",
+      "status" : "failed",
+      "statusDetails" : "Error during retrieving Books Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
+      "time" : {
+        "start" : 1751620783977,
+        "stop" : 1751620784406,
+        "duration" : 429
+      }
+    } ]
+  },
+  "5b2d15fa304efd81451004eb89a092b0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "93f92ab6608447c1",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/93f92ab6608447c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620779355,
+        "stop" : 1751620779924,
+        "duration" : 569
+      }
+    } ]
+  },
+  "f99c9e98fa1fc755a32498fe421f83bb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44d96d4b59dc3b21",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/44d96d4b59dc3b21",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620781329,
+        "stop" : 1751620781773,
+        "duration" : 444
+      }
+    } ]
+  },
+  "2c83d2e6956d9f577d52c96eeb112a7b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "383f48019d15dc07",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/383f48019d15dc07",
+      "status" : "failed",
+      "statusDetails" : "Error during retrieving Books Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
+      "time" : {
+        "start" : 1751620783542,
+        "stop" : 1751620783975,
+        "duration" : 433
+      }
+    } ]
+  },
+  "5d490e8d59c79949be5316926b257355" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6f3e0a45ffbce26",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/6f3e0a45ffbce26",
+      "status" : "failed",
+      "statusDetails" : "Error during retrieving Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
+      "time" : {
+        "start" : 1751620776435,
+        "stop" : 1751620779280,
+        "duration" : 2845
+      }
+    } ]
+  },
+  "3628e862530b390352b132a9977ef226" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ca1d49d245a7f7d",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/9ca1d49d245a7f7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620786054,
+        "stop" : 1751620786496,
+        "duration" : 442
+      }
+    } ]
+  },
+  "cc3b25af72f8b8fe7e16f4675712fc5d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bf4e543304b61ffb",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/bf4e543304b61ffb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620784409,
+        "stop" : 1751620784873,
+        "duration" : 464
+      }
+    } ]
+  },
+  "8df6a04bad7820a09ea4169ec5e8f82b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed183e9ac98b7cec",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/ed183e9ac98b7cec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620787830,
+        "stop" : 1751620788599,
+        "duration" : 769
+      }
+    } ]
+  },
+  "3ca7aa0db36557a796b6479270a8f44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90335919d81f08cd",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/90335919d81f08cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620782215,
+        "stop" : 1751620782658,
+        "duration" : 443
+      }
+    } ]
+  },
+  "31916c678ecbda09ea0831ecc37e80f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "561e415c75533c6d",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/561e415c75533c6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620782660,
+        "stop" : 1751620783102,
+        "duration" : 442
+      }
+    } ]
+  },
+  "ea768cd69b2dd7e253fcfe86edf4b5a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "16f1c1a6d4c4a2e3",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/16f1c1a6d4c4a2e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620788603,
+        "stop" : 1751620789041,
+        "duration" : 438
+      }
+    } ]
+  },
+  "388ed7cd0ed913b3b302a8d1aadea17a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0c5b928e7e65653",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/a0c5b928e7e65653",
+      "status" : "failed",
+      "statusDetails" : "Error during retrieving Details Data by id - Expected status: 409, but got: 200 expected [409] but found [200]",
+      "time" : {
+        "start" : 1751620779927,
+        "stop" : 1751620780403,
+        "duration" : 476
+      }
+    } ]
+  },
+  "6b72c1c7ff26c1b53360f51e9981dff1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1063f4f9d3765960",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/1063f4f9d3765960",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620781776,
+        "stop" : 1751620782213,
+        "duration" : 437
+      }
+    } ]
+  },
+  "93db3eeec2d5e4b3c87a2b86b0b66de8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3f28c91b039fa81c",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/3f28c91b039fa81c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620784875,
+        "stop" : 1751620785316,
+        "duration" : 441
+      }
+    } ]
+  },
+  "a1b7be4ad78d55c98d2d1070bd650469" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "523b22a01c77d4ca",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/523b22a01c77d4ca",
+      "status" : "failed",
+      "statusDetails" : "Error during retrieving Books Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
+      "time" : {
+        "start" : 1751620783105,
+        "stop" : 1751620783539,
+        "duration" : 434
+      }
+    } ]
+  },
+  "a7495036dece211cc127cdfd2ea233d6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c96779b0f0226ea0",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/c96779b0f0226ea0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620786498,
+        "stop" : 1751620786942,
+        "duration" : 444
+      }
+    } ]
+  },
+  "a4652fbcd226e54923d7ead391db8143" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "73b2548259c21e45",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/73b2548259c21e45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620789042,
+        "stop" : 1751620789478,
+        "duration" : 436
+      }
+    } ]
+  },
+  "1055a10de1d58d749725a7545696f768" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fd048cd1cf1ba410",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/fd048cd1cf1ba410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620780406,
+        "stop" : 1751620780869,
+        "duration" : 463
+      }
+    } ]
+  },
+  "5f38feaf032366fc4ad563ef128134b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ccf1fd6b9d2577",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/9ccf1fd6b9d2577",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620787382,
+        "stop" : 1751620787828,
+        "duration" : 446
+      }
+    } ]
+  },
+  "53fdc09e38d05c04ecaa8f9d972a642e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32b2f1cee6ae6671",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/32b2f1cee6ae6671",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620786945,
+        "stop" : 1751620787380,
+        "duration" : 435
+      }
+    } ]
+  },
+  "677261be42b681cc9e88c5e2e2abfcb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2b70c969d7d03b3f",
+      "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/7//#testresult/2b70c969d7d03b3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1751620785318,
+        "stop" : 1751620786052,
+        "duration" : 734
+      }
+    } ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "total" : 22,
+  "items" : [ {
+    "uid" : "01eff1e2111fb98481045f12f9803008",
+    "name" : "Add a new book to the system with additional unknown fields",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0dcaf08ebf8cec9bee81da692907a625",
+    "name" : "Add a new book to the system with same fields values",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "6228bff943048996ad1fb02c01446847",
+    "name" : "Delete an existing book by non-existing ID.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "14632c0fe4925394316d30663e303b45",
+    "name" : "Update an existing book by ID with extra field.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "37ca690e7edb8cf4a5f1c0e05755088f",
+    "name" : "Update an existing book by a non-existing ID.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9d73856845860a2690783829264d26f7",
+    "name" : "Update an existing book by a negative ID.",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cd24251d8d88e12f8f478f851fb06515",
+    "name" : "Add a new book to the system with Empty required fields.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "25e96bdd8e5709918ad72ead1af213c9",
+    "name" : "Delete an existing book by negative ID ",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "0cdebab6652a45964f393e397bafc3d3",
+    "name" : "Delete an existing book by ID is a string or special character..",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1c20de0c167a3e49aefd781d5638122f",
+    "name" : "Retrieve details of a specific book by not exist ID.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

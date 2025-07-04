@@ -1,0 +1,107 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Error during retrieving Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
+      "children" : [ {
+        "name" : "AddnewBookwithadditinalfields",
+        "uid" : "6f3e0a45ffbce26",
+        "parentUid" : "3bc3c6472f149566fba2da5f8e5b8f16",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620776435,
+          "stop" : 1751620779280,
+          "duration" : 2845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3bc3c6472f149566fba2da5f8e5b8f16"
+    }, {
+      "name" : "Error during retrieving Details Data by id - Expected status: 409, but got: 200 expected [409] but found [200]",
+      "children" : [ {
+        "name" : "AddnewBookwithsamefieldsvalues",
+        "uid" : "a0c5b928e7e65653",
+        "parentUid" : "5d3b93a2a00af10286d8afc918ba4b65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620779927,
+          "stop" : 1751620780403,
+          "duration" : 476
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d3b93a2a00af10286d8afc918ba4b65"
+    }, {
+      "name" : "Error during Deleting Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
+      "children" : [ {
+        "name" : "DeleteExistingBookbynonexistingID",
+        "uid" : "94d86d7367cb361b",
+        "parentUid" : "9792fc56938f0412b8682abf911ea367",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620780872,
+          "stop" : 1751620781326,
+          "duration" : 454
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9792fc56938f0412b8682abf911ea367"
+    }, {
+      "name" : "Error during retrieving Books Details Data by id - Expected status: 400, but got: 200 expected [400] but found [200]",
+      "children" : [ {
+        "name" : "UpdateExistingBookbyIDwithextrafield",
+        "uid" : "523b22a01c77d4ca",
+        "parentUid" : "e21c1c29fc9e07e3454f5950cb6c0962",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620783105,
+          "stop" : 1751620783539,
+          "duration" : 434
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e21c1c29fc9e07e3454f5950cb6c0962"
+    }, {
+      "name" : "Error during retrieving Books Details Data by id - Expected status: 404, but got: 200 expected [404] but found [200]",
+      "children" : [ {
+        "name" : "UpdateExistingBookbyanonexistingID",
+        "uid" : "383f48019d15dc07",
+        "parentUid" : "f36e60cf66d074752ab12a540066ebc6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620783542,
+          "stop" : 1751620783975,
+          "duration" : 433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "UpdateExistingBookbynegativeID",
+        "uid" : "92499252730786e9",
+        "parentUid" : "f36e60cf66d074752ab12a540066ebc6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1751620783977,
+          "stop" : 1751620784406,
+          "duration" : 429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f36e60cf66d074752ab12a540066ebc6"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
