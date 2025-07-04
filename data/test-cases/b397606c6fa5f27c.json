@@ -1,0 +1,185 @@
+{
+  "uid" : "b397606c6fa5f27c",
+  "name" : "AddNewAuthor",
+  "fullName" : "tests.Test_AuthorsAPIScenarios.AddNewAuthor",
+  "historyId" : "cc3b25af72f8b8fe7e16f4675712fc5d",
+  "time" : {
+    "start" : 1751623290643,
+    "stop" : 1751623291126,
+    "duration" : 483
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751623282121,
+      "stop" : 1751623282126,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751623290643,
+        "stop" : 1751623290643,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Send Post request to Add new Data",
+      "time" : {
+        "start" : 1751623290644,
+        "stop" : 1751623290644,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751623291125,
+        "stop" : 1751623291125,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751623291126,
+        "stop" : 1751623291126,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "f63d189b71422ed7",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "f63d189b71422ed7.txt",
+      "type" : "application/json",
+      "size" : 62
+    }, {
+      "uid" : "c6e080245d6c793e",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "c6e080245d6c793e.txt",
+      "type" : "text/plain",
+      "size" : 21
+    }, {
+      "uid" : "5af548ce623d4d74",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "5af548ce623d4d74.txt",
+      "type" : "application/json",
+      "size" : 53
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751623296166,
+      "stop" : 1751623296166,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddNewAuthor"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2531@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Add a new author to the system."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b397606c6fa5f27c.json",
+  "parameterValues" : [ ]
+}
