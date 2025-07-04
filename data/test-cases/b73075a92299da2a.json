@@ -1,0 +1,185 @@
+{
+  "uid" : "b73075a92299da2a",
+  "name" : "AddNewBook",
+  "fullName" : "tests.Test_BooksAPIScenarios.AddNewBook",
+  "historyId" : "53fdc09e38d05c04ecaa8f9d972a642e",
+  "time" : {
+    "start" : 1751624291488,
+    "stop" : 1751624291969,
+    "duration" : 481
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751624280511,
+      "stop" : 1751624280517,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751624291488,
+        "stop" : 1751624291488,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Send Post request to Add new Data",
+      "time" : {
+        "start" : 1751624291489,
+        "stop" : 1751624291489,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751624291968,
+        "stop" : 1751624291968,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751624291968,
+        "stop" : 1751624291968,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "3ce1e5cea2105926",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "3ce1e5cea2105926.txt",
+      "type" : "application/json",
+      "size" : 119
+    }, {
+      "uid" : "140595fe9e93bc13",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "140595fe9e93bc13.txt",
+      "type" : "text/plain",
+      "size" : 21
+    }, {
+      "uid" : "b8e1c5741825a771",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "b8e1c5741825a771.txt",
+      "type" : "application/json",
+      "size" : 104
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751624294314,
+      "stop" : 1751624294314,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_BooksAPIScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_BooksAPIScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddNewBook"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_BooksAPIScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2497@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Add a new book to the system."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b73075a92299da2a.json",
+  "parameterValues" : [ ]
+}

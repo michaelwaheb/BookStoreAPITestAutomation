@@ -1,0 +1,185 @@
+{
+  "uid" : "f6514a31aa68851a",
+  "name" : "UpdateExistingAuthorbyID",
+  "fullName" : "tests.Test_AuthorsAPIScenarios.UpdateExistingAuthorbyID",
+  "historyId" : "a7495036dece211cc127cdfd2ea233d6",
+  "time" : {
+    "start" : 1751624291011,
+    "stop" : 1751624291486,
+    "duration" : 475
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751624280511,
+      "stop" : 1751624280517,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751624291011,
+        "stop" : 1751624291011,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Send Put request to update existing Data by id",
+      "time" : {
+        "start" : 1751624291011,
+        "stop" : 1751624291011,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751624291485,
+        "stop" : 1751624291485,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751624291486,
+        "stop" : 1751624291486,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "975712f4a1f1e9fd",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "975712f4a1f1e9fd.txt",
+      "type" : "application/json",
+      "size" : 60
+    }, {
+      "uid" : "8e100b0a6e00456",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "8e100b0a6e00456.txt",
+      "type" : "text/plain",
+      "size" : 21
+    }, {
+      "uid" : "e76ac051f853444",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "e76ac051f853444.txt",
+      "type" : "application/json",
+      "size" : 51
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751624294314,
+      "stop" : 1751624294314,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateExistingAuthorbyID"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2497@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Update an existing author’s details."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6514a31aa68851a.json",
+  "parameterValues" : [ ]
+}

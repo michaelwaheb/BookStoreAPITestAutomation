@@ -1,0 +1,185 @@
+{
+  "uid" : "4e96dc0cb9a863e1",
+  "name" : "AddnewBookwithemptyfields",
+  "fullName" : "tests.Test_BooksAPIEdgeScenarios.AddnewBookwithemptyfields",
+  "historyId" : "5b2d15fa304efd81451004eb89a092b0",
+  "time" : {
+    "start" : 1751624283347,
+    "stop" : 1751624283969,
+    "duration" : 622
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751624280511,
+      "stop" : 1751624280517,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751624283347,
+        "stop" : 1751624283347,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Send Post request to Add new Data",
+      "time" : {
+        "start" : 1751624283348,
+        "stop" : 1751624283348,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751624283842,
+        "stop" : 1751624283842,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751624283967,
+        "stop" : 1751624283967,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "f4280388ab581b6d",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "f4280388ab581b6d.txt",
+      "type" : "application/json",
+      "size" : 320
+    }, {
+      "uid" : "562193deba5648f5",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "562193deba5648f5.txt",
+      "type" : "text/plain",
+      "size" : 30
+    }, {
+      "uid" : "64df7a87682de26d",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "64df7a87682de26d.txt",
+      "type" : "application/json",
+      "size" : 304
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751624294314,
+      "stop" : 1751624294314,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "AddnewBookwithemptyfields"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_BooksAPIEdgeScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2497@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Add a new book to the system with Empty required fields."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e96dc0cb9a863e1.json",
+  "parameterValues" : [ ]
+}

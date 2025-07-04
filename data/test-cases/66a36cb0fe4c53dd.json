@@ -1,0 +1,185 @@
+{
+  "uid" : "66a36cb0fe4c53dd",
+  "name" : "GetAllAuthorList",
+  "fullName" : "tests.Test_AuthorsAPIScenarios.GetAllAuthorList",
+  "historyId" : "677261be42b681cc9e88c5e2e2abfcb",
+  "time" : {
+    "start" : 1751624289791,
+    "stop" : 1751624290525,
+    "duration" : 734
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1751624280511,
+      "stop" : 1751624280517,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Add {Params} and {endpoint} to the request",
+      "time" : {
+        "start" : 1751624289791,
+        "stop" : 1751624289791,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Send GET request to retrieve all Data list",
+      "time" : {
+        "start" : 1751624289791,
+        "stop" : 1751624289791,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Extract and print {Data} from the response",
+      "time" : {
+        "start" : 1751624290435,
+        "stop" : 1751624290435,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "✅ Status and response body extracted successfully",
+      "time" : {
+        "start" : 1751624290524,
+        "stop" : 1751624290524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "374a2317e208eafc",
+      "name" : "\uD83D\uDCE9 Raw Response Body",
+      "source" : "374a2317e208eafc.txt",
+      "type" : "application/json",
+      "size" : 46719
+    }, {
+      "uid" : "10cbc962a61f297a",
+      "name" : "\uD83D\uDCE8 HTTP Status",
+      "source" : "10cbc962a61f297a.txt",
+      "type" : "text/plain",
+      "size" : 21
+    }, {
+      "uid" : "2721f19a2d74a101",
+      "name" : "\uD83D\uDCE6 Full JSON Response",
+      "source" : "2721f19a2d74a101.txt",
+      "type" : "application/json",
+      "size" : 41982
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 4,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1751624294314,
+      "stop" : 1751624294314,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetAllAuthorList"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "tests.Test_AuthorsAPIScenarios"
+  }, {
+    "name" : "host",
+    "value" : "pkrvmbietmlfzoi"
+  }, {
+    "name" : "thread",
+    "value" : "2497@pkrvmbietmlfzoi.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Retrieve a list of all authors"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66a36cb0fe4c53dd.json",
+  "parameterValues" : [ ]
+}

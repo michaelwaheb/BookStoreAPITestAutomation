@@ -2,9 +2,9 @@
   "name" : "GitHub Actions",
   "type" : "github",
   "url" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation",
-  "buildOrder" : 10,
-  "buildName" : "GitHub Actions Run #16071185011",
-  "buildUrl" : "https://github.com/michaelwaheb/BookStoreAPITestAutomation/actions/runs/16071185011",
+  "buildOrder" : 11,
+  "buildName" : "GitHub Actions Run #16071502169",
+  "buildUrl" : "https://github.com/michaelwaheb/BookStoreAPITestAutomation/actions/runs/16071502169",
   "reportName" : "Allure Report with history",
-  "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/10/"
+  "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/11/"
 } ]

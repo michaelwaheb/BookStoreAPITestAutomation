@@ -1,8 +1,8 @@
 [ {
-  "buildOrder" : 10,
-  "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/10/",
+  "buildOrder" : 11,
+  "reportUrl" : "https://michaelwaheb.github.io/BookStoreAPITestAutomation/11/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "duration" : 13937
+    "duration" : 13685
   }
 } ]
